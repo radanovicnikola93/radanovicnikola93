@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me https://www.nikola-radanovic.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=radanovicnikola93)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=radanovicnikola93&theme=onedark&rank=S&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 radanovicnikola93/radanovicnikola93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
